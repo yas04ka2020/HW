@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(184, 175, 255);
+    text-align: center;
+}
+
+h1 {
+    color: rgb(197, 184, 4);
+    text-align: center;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 30px;
+}
+
+h2 {
+    color: rgb(16, 2, 84);
+    text-align: center;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 30px;
+}
+
+h3 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 30px;
+}
+p1 {
+    color: rgb(224, 244, 115);
+    text-align: right;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 30px;
+}
+
+p2 {
+    color: rgb(4, 125, 173);
+    text-align: right;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 30px;
+}
+
+p3 {
+    color: rgb(50, 60, 65);
+    text-align: right;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 30px;
+}
+
+.section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin: 20px auto;
+    gap: 20px;
+}
+
+img {
+    width: 400px;
+}
